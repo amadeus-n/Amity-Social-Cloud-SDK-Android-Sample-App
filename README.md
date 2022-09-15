@@ -11,5 +11,4 @@ Please build and sync the project once before running the app.
 Go to "SampleAPIKey.kt" inside sdk-versioning Module and paste the api key inside `get().
 
 ## License
-
-Public Framework. Copyright (c) 2020 [Amity](https://amity.co).
+Public Framework. Copyright © 2022 Amity.
